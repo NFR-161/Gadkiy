@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Gadkiy</string>
+    <string name="home">Дома</string>
+    <string name="pills">Колёса</string>
+    <string name="card">В кармане</string>
+    <string name="account">Аккаунт</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
